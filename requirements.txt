@@ -1,0 +1,6 @@
+streamlit
+flask
+flask_sqlalchemy
+werkzeug
+pandas
+matplotlib
